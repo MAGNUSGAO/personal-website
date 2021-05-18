@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.7f314bff.chunk.css",
-    "main.js": "/personal-website/static/js/main.a01be679.chunk.js",
-    "main.js.map": "/personal-website/static/js/main.a01be679.chunk.js.map",
+    "main.css": "/personal-website/static/css/main.52b67d06.chunk.css",
+    "main.js": "/personal-website/static/js/main.04f60a7e.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.04f60a7e.chunk.js.map",
     "runtime-main.js": "/personal-website/static/js/runtime-main.d7f1e2e7.js",
     "runtime-main.js.map": "/personal-website/static/js/runtime-main.d7f1e2e7.js.map",
     "static/js/2.1b396e2f.chunk.js": "/personal-website/static/js/2.1b396e2f.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.b1a9181b.chunk.js": "/personal-website/static/js/3.b1a9181b.chunk.js",
     "static/js/3.b1a9181b.chunk.js.map": "/personal-website/static/js/3.b1a9181b.chunk.js.map",
     "index.html": "/personal-website/index.html",
-    "static/css/main.7f314bff.chunk.css.map": "/personal-website/static/css/main.7f314bff.chunk.css.map",
+    "static/css/main.52b67d06.chunk.css.map": "/personal-website/static/css/main.52b67d06.chunk.css.map",
     "static/js/2.1b396e2f.chunk.js.LICENSE.txt": "/personal-website/static/js/2.1b396e2f.chunk.js.LICENSE.txt",
     "static/media/Ball2.a19f2136.jpg": "/personal-website/static/media/Ball2.a19f2136.jpg",
     "static/media/BookShelf.a5e358b3.JPG": "/personal-website/static/media/BookShelf.a5e358b3.JPG",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.d7f1e2e7.js",
     "static/js/2.1b396e2f.chunk.js",
-    "static/css/main.7f314bff.chunk.css",
-    "static/js/main.a01be679.chunk.js"
+    "static/css/main.52b67d06.chunk.css",
+    "static/js/main.04f60a7e.chunk.js"
   ]
 }
