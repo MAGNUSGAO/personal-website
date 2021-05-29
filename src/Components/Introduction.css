@@ -1,0 +1,51 @@
+.IntroductionContainer {
+    height: auto;
+    width: 90vw;
+    max-width: 90vw;
+    margin: 4vw;
+    box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+    -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    border-radius: 2vw;
+    padding: 2vw;
+}
+
+.IntroductionImage{
+    width: 25vw;
+    max-width: 25vw;
+    height: 30vw;
+    max-height: 30vw;
+    object-fit: cover;
+    padding-left: 1vw;
+    /* background-repeat: no-repeat; */
+}
+
+.Title{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 1vw;
+}
+
+.IntroductionLeftColumn{
+    /* float: left; */
+    width: 30%;
+}
+.IntroductionRightColumn{
+    /* float: left; */
+    width: 70%;
+}
+
+.vw1{
+    height: 10px;
+}
+
+.Description{
+    font-weight: normal;
+    text-align: left;
+    padding-left: 3vw;
+    padding-top: 0;
+    padding-bottom: 1vw;
+    margin: 0;
+    font-size: 1.5vw;
+}

@@ -1,0 +1,47 @@
+.SocialIcon{
+    font-size: 4vw;
+    text-decoration: none;
+    justify-content: center;
+    padding-left: 3vw;
+    /* padding-right: 3vw; */
+    display: inline;
+    
+}
+
+
+.SocialLinks{
+    font-size: 3vw;
+    text-align: left;
+    justify-content: center;
+    padding: 1vw;
+    padding-left: 30vw;
+}
+
+.SocialDescription{
+    font-size: 4vw;
+    margin-left: 3vw !important;
+    color: black;
+}
+
+.Reach{
+    font-size: 2vw;
+    text-align: center;
+    padding: 1vw;
+    color: rgb(1, 174, 197);
+}
+
+.Red{
+    color: red;
+}
+
+.LightBlue{
+    color: rgb(1, 174, 197) !important;
+}
+
+.TwitterBlue{
+    color: rgb(29,161,242);
+}
+
+.LinkedInBlue{
+    color: rgb(40,103,178)
+}

@@ -1,0 +1,53 @@
+.Nav{
+  position: fixed;
+  width: 100vw;
+  top: 0;
+  z-index: 999;
+  /* display: flex; */
+  height: 3vw;
+}
+
+.NavLink{
+  float: right;
+  font-weight: 600;
+  font-size: 2vw;
+  display: inline;
+  color: white;
+  text-align: center;
+  padding: 1vw;
+  padding-left: 1vw;
+  text-decoration: none;
+  
+}
+
+.NavUL{
+	  background: linear-gradient(90deg, rgb(0, 150, 205) 0%, rgb(0, 160, 200) 0%);
+    list-style-type: none;
+  	margin: 0;
+  	padding: 0;
+  	overflow: hidden;
+  	background-color: #333;
+    /* padding-right: 5vw; */
+    padding-left: 1vw;
+    padding-right: 2vw;
+    height: 4.6vw;
+    /* position: fixed; */
+}
+
+.NavLink:hover {
+  border-bottom: 2vw solid #fff;
+  transition: all 0.2s ease-out;
+}
+
+.myName{
+    float: left;
+    display: inline;
+    color: white !important;
+    text-align: center;
+    text-decoration: none;
+    font-size: 2vw;
+    font-weight: 600;
+    padding-bottom: 1vw;;
+    padding: 1vw;
+    padding-left: 1vw;;
+}

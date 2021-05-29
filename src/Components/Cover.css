@@ -1,0 +1,35 @@
+.Cover{
+    /* not background-image  but background */
+    background: url("../Components/Testing.jpg");
+    background-color: black; 
+    height: 15vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 0;
+}
+
+.Cover2{
+    /* not background-image  but background */
+    background: url("../Components/SeaCoast.jpg");
+    height: 15vw;
+    filter: brightness(120%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 0;
+}
+
+
+.CoverDescription{
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    font-size: 4vw;
+    text-align: right;
+    padding-top: 4.5vw;
+    padding-right: 2vw;
+    filter: brightness(100%);
+}

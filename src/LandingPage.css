@@ -1,0 +1,59 @@
+body, html{
+    height: 100%;
+    
+}
+
+.cover{
+    /* not background-image  but background */
+    background: url("images/LandingPage.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 0;
+}
+
+.name{
+    text-align: center;
+}
+
+.typing{
+    font-size: 8vh;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 5vh;
+    height: 10vh;
+}
+
+h1{
+    margin-top: 0;
+    padding-top: 15vh;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 10vw;
+    
+}
+
+.Link{
+    display: inline-block;
+    color: white;
+    font-size: 5vh;
+    padding: 25px 30px 10px 30px;
+    
+}
+
+.Link:hover{
+    border-bottom: 5px solid #fff;
+    transition: all 0.2s ease-out;
+}
+
+.Options{
+    justify-content: center !important;
+    text-align: center;
+    display: 'flex';
+    margin-top: 2vh;
+}
+
+

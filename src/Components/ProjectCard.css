@@ -1,0 +1,138 @@
+.ProjectCardImage{
+    width: 26vw;
+    max-width: 25vw;
+    height: 20vw;
+    max-height: 20vw;
+    object-fit: cover;
+    padding-left: 1vw;
+    /* background-repeat: no-repeat; */
+}
+
+.ProjectCardContainer {
+    height: auto;
+    max-height: auto;
+    width: 90vw;
+    max-width: 90vw;
+    margin: 4vw;
+    box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+    -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    border-radius: 2vw;
+    padding: 2vw;
+}
+
+.ProjectCardIcons{
+    margin: 0px;
+    padding: 0px;
+    /* position: relative; */
+}
+
+.fa-language{
+    /* padding-top: 0.5vw; */
+    padding-right: 1vw;
+    font-size: 3vw !important;
+}
+
+.fa-github{
+    font-size: 3vw !important;
+    vertical-align:top;
+    color: purple !important;
+}
+
+.fa-external-link-alt{
+    font-size: 3vw !important;
+    padding-left: 2vw;
+    vertical-align:top;
+    color: black !important;
+}
+
+.fa-tag{
+    font-size: 3vw !important;
+    padding-right: 1vw;
+    vertical-align:top;
+    padding-top: 0vw;
+}
+
+.ProjectLinks{
+    padding-top: 0.5vw;
+}
+
+h3{
+    font-size: 3vw;
+    text-align: left;
+    margin: 0;
+}
+
+h5{
+    font-size: 2vw;
+    text-align: left;
+    margin: 0;
+}
+
+.VisitGitHub{
+    font-size: 2vw;
+    text-align: center;
+    margin-bottom: 2vw;
+    align-content: center;
+    margin-left: 24vw;
+}
+
+.VisitGitHubButton {
+	color: #fff !important;
+	text-decoration: none;
+	background: rgb(1, 174, 197);
+	padding: 1.5vw;
+    margin-right: 1vw;
+	border-radius: 1vw;
+	display: inline-block;
+	border: none;
+	transition: all 0.4s ease 0s;
+    margin-bottom: 2vw;
+    font-weight: bold;
+    font-size: 2vw;
+}
+
+.VisitGitHubButton:hover {
+	background: #434343;
+	letter-spacing: 1px;
+	-webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+	-moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+	box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
+	transition: all 0.4s ease 0s;
+}
+
+.LanguageDescription{
+    font-size: 2vw;
+    /* bottom: 0.3vw; */
+    left: 0.3vw;
+    position: relative;
+}
+
+.TagDescription{
+    font-size: 2vw;
+    left: 1vw;
+    position: relative;
+}
+
+.LeftColumn{
+    /* float: left; */
+    width: 35%;
+}
+.RightColumn{
+    /* float: right; */
+    width: 65%;
+}
+
+.Wrapper{
+    display:flex;
+    /* flex-direction:row-reverse; */
+}
+
+
+.in-line{
+    display: inline;
+    font-size: 2vw;
+}
+
+
+

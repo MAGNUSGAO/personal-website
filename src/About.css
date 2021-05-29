@@ -1,0 +1,141 @@
+.SectionTitle{
+    padding: 0vw;
+    font-size: 3vw;
+    margin: 0;
+}
+
+.SectionTitle2{
+    text-align: left;
+    padding-left: 3vw;
+    margin: 0;
+    font-size: 2vw;
+}
+
+.SectionDescription{
+    font-weight: normal;
+    text-align: left;
+    padding-left: 3vw;
+    padding-top: 0;
+    margin: 0;
+    font-size: 1.5vw;
+}
+
+.right{
+    float: right;
+    padding-right: 3vw;
+    bottom: 2vw;
+    position: relative;
+    font-size: 2vw;
+}
+
+.button_cont{
+    margin-top: 2vw;
+}
+
+.CardContainer {
+    width: 90vw;
+    max-width: 90vw;
+    margin: 0vw 3vw 3vw 3vw;
+    box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+    -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    border-radius: 2vw;
+    padding: 2vw;
+}
+
+.EducationCardContainer {
+    height: auto;
+    max-height: auto;
+}
+
+.ExperienceCardContainer{
+    height: auto;
+    max-height: auto;
+}
+
+.MiddleText {
+    transition: .5s ease;
+    opacity: 0;
+    bottom: 100%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 2vw !important;
+}
+
+.WhiteColor{
+    color: white;
+}
+
+.GrassColor{
+    color: rgb(124, 252, 0);
+}
+
+.BlackColor{
+    color: black;
+}
+
+
+.HobbiesDisplay{
+    opacity: 1;
+    display: inline-block;
+    object-fit: cover;
+    width: 20vw;
+    height: 20vw;
+    padding: 1.5vw 1vw 0vw 1vw;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+
+.HobbiesContainer{
+    position: relative;
+    width: 20vw;
+    height: 25vw;
+}
+
+.HobbiesContainer:hover .HobbiesDisplay {
+    opacity: 0.5;
+}
+  
+.HobbiesContainer:hover .MiddleText {
+    opacity: 1;
+}
+
+.Quote{
+    padding-top: 1vw;
+    text-align: center;
+}
+
+.inline-display{
+    display: inline;
+}
+
+.Subtitle{
+    font-size: 2vw;
+    position: relative;
+}
+
+.SubtitleContainer{
+    /* display: flex;
+    justify-content: space-between; */
+    padding-left: 2vw;
+    padding-right: 4vw;
+}
+
+.left1{
+    left: 0%
+}
+
+.left2{
+    left: 18%
+}
+
+.left3{
+    left: 25%
+}
+
+.left4{
+    left: 36%
+}
