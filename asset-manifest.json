@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.52b67d06.chunk.css",
+    "main.css": "/personal-website/static/css/main.43da69f3.chunk.css",
     "main.js": "/personal-website/static/js/main.73e38eae.chunk.js",
     "main.js.map": "/personal-website/static/js/main.73e38eae.chunk.js.map",
     "runtime-main.js": "/personal-website/static/js/runtime-main.61e8588e.js",
@@ -10,7 +10,7 @@
     "static/js/3.dfecd928.chunk.js": "/personal-website/static/js/3.dfecd928.chunk.js",
     "static/js/3.dfecd928.chunk.js.map": "/personal-website/static/js/3.dfecd928.chunk.js.map",
     "index.html": "/personal-website/index.html",
-    "static/css/main.52b67d06.chunk.css.map": "/personal-website/static/css/main.52b67d06.chunk.css.map",
+    "static/css/main.43da69f3.chunk.css.map": "/personal-website/static/css/main.43da69f3.chunk.css.map",
     "static/js/2.a073f4bc.chunk.js.LICENSE.txt": "/personal-website/static/js/2.a073f4bc.chunk.js.LICENSE.txt",
     "static/media/Ball2.a19f2136.jpg": "/personal-website/static/media/Ball2.a19f2136.jpg",
     "static/media/BookShelf.c9edeb03.JPG": "/personal-website/static/media/BookShelf.c9edeb03.JPG",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.61e8588e.js",
     "static/js/2.a073f4bc.chunk.js",
-    "static/css/main.52b67d06.chunk.css",
+    "static/css/main.43da69f3.chunk.css",
     "static/js/main.73e38eae.chunk.js"
   ]
 }
