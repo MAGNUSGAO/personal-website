@@ -1,9 +1,7 @@
 import {React, Component} from 'react'
-import NavBar from './Components/NavBar.js'
-import Footer from './Components/Footer.js'
 import ProjectCard from './Components/ProjectCard'
 import ChatBot from "./images/ChatBot.png";
-import Calculator from "./images/Calculator.png";
+import FoodDetect from "./images/FoodDetect.png";
 import TesterImage from "./images/Tester.png";
 import Cover from './Components/Cover.js'
 
@@ -42,15 +40,15 @@ class Project extends Component {
                 ></ProjectCard>
 
                 <ProjectCard    
-                src={Calculator}
-                text='Calculator'
-                alt="Calculator"
-                description="A Simple Calculator Built Using ReactJS and Other JavaScript Features"
-                GitPath='https://github.com/MAGNUSGAO/React_Calculator'
-                WebsitePath="https://magnusgao.github.io/React_Calculator/"
-                language='CSS, JavaScript (Frontend: ReactJS)'
+                src={FoodDetect}
+                text='Food Detect - AI Based Food Detection Recipe Web App'
+                alt="Demo of Food Detect"
+                description="Backend built with REST API and used third party APIs such as Clarifai API"
+                GitPath='https://github.com/MAGNUSGAO/food-detect-api'
+                WebsitePath="http://food-recognition-reactjs.herokuapp.com"
+                language='React.js, Node.js, Express, PostgreSQL, CSS, BCrypt'
                 displayLink='1'
-                tags="Fun, Math, Calculator"
+                tags="Full-stack Web App, AI, Food"
                 
                 ></ProjectCard>
 
