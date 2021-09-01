@@ -32,7 +32,7 @@ export default function Introduction() {
                         <h3 className="LightBlue Title">My Work Experience</h3>
                         <h3 className="Description">
                         Currently I am working for the Markham Stouffville Election District Association as Frontend Web Developer. 
-                        I implemented originally paid features using native HTML, CSS and JavaScript, which saved the organization more than $2000 and increased web traffic by 50%.
+                        I implemented originally paid features using native HTML, CSS and JavaScript, which saved the organization more than $3600 and increased web traffic by 50%.
                         Previously I worked for the same organization as a data analyst, 
                         where I built a name-classification program that is 53% more accurate than the original program.
                         </h3>
